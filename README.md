@@ -38,12 +38,7 @@ Motivated to build impactful AI-driven systems, learn continuously, and contribu
 <h2>🧠 Top Technical Skills</h2>
 
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=python,cs,django,mysql,sqlite,oracle,opencv,linux,git,github,vscode" />
-
-  <img src="https://avatars.githubusercontent.com/u/26833433?s=200&v=4" 
-       width="50" height="50" title="YOLO (Ultralytics)" style="margin-left:5px;" />
-
 </p>
 
 ### 🔹 **Computer Vision Skills**
@@ -85,11 +80,6 @@ Python + PyQt6 + SQLite desktop app for inventory and product management.
 ---
 
 <h2>🧪 Google Colab Notebooks</h2>
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_logo_2023.svg/512px-Google_Colaboratory_logo_2023.svg.png"
-       width="45" height="45" title="Google Colab"/>
-</p>
 
 - YOLOv8 Training  
 - Object Detection Experiments  
