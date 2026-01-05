@@ -29,7 +29,7 @@ Motivated to build impactful AI-driven systems, learn continuously, and contribu
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <img src="https://img.shields.io/badge/Location-Giza-00b894?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-cairo-00b894?style=for-the-badge"/>
 
 </p>
 
