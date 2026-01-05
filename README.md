@@ -53,12 +53,13 @@ Motivated to build impactful AI-driven systems, learn continuously, and contribu
 <h2>🚀 Featured Projects</h2>
 
 ### 🏥 **Pharmacy Management System**
-Python + PyQt6 desktop application
-SQLite local database
-Inventory & product management
-Integrated local vector database (ChromaDB)
-Smart semantic search
-AI-ready features (product recommendations & automatic description generation)
+- Python + PyQt6 desktop application  
+- SQLite local database  
+- Inventory & product management  
+- Integrated local vector database (ChromaDB)  
+- Smart semantic search  
+- AI-ready features (product recommendations & automatic description generation)
+
 ---
 
 ### ✋ **Signify — Arabic Sign Language Recognition (ArSL)**
