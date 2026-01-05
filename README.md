@@ -53,8 +53,12 @@ Motivated to build impactful AI-driven systems, learn continuously, and contribu
 <h2>🚀 Featured Projects</h2>
 
 ### 🏥 **Pharmacy Management System**
-Python + PyQt6 + SQLite desktop app for inventory and product management.
-
+Python + PyQt6 desktop application
+SQLite local database
+Inventory & product management
+Integrated local vector database (ChromaDB)
+Smart semantic search
+AI-ready features (product recommendations & automatic description generation)
 ---
 
 ### ✋ **Signify — Arabic Sign Language Recognition (ArSL)**
@@ -105,16 +109,7 @@ Python + PyQt6 + SQLite desktop app for inventory and product management.
 
 ---
 
-<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-
-  <img width="49%" 
-       src="https://github-readme-streak-stats.herokuapp.com?user=KarimElroby7&theme=tokyonight&hide_border=true" />
-
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimElroby7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
