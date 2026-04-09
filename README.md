@@ -52,6 +52,22 @@ Motivated to build impactful AI-driven systems, learn continuously, and contribu
 
 <h2>🚀 Featured Projects</h2>
 
+### 🚧 **Real-time Construction Equipment Tracking System**
+[View Project](https://github.com/KarimElroby7/Real-time-construction-equipment-tracking-system)
+- Real-time AI system for tracking construction equipment  
+- YOLOv11 (yolo11l) for object detection  
+- BoT-SORT for multi-object tracking  
+- Custom optical flow for motion analysis  
+- Time-based activity analytics system  
+- Apache Kafka for real-time streaming  
+- FastAPI backend for serving data  
+- TimescaleDB for time-series storage  
+- Streamlit dashboard for visualization  
+- OpenCV for video processing  
+
+---
+
+
 ### 🏥 **Pharmacy Management System**
 - Python + PyQt6 desktop application  
 - SQLite local database  
