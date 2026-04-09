@@ -69,6 +69,7 @@ Motivated to build impactful AI-driven systems, learn continuously, and contribu
 
 
 ### 🏥 **Pharmacy Management System**
+[View Project](https://github.com/KarimElroby7/pharmacy_system)
 - Python + PyQt6 desktop application  
 - SQLite local database  
 - Inventory & product management  
@@ -79,6 +80,7 @@ Motivated to build impactful AI-driven systems, learn continuously, and contribu
 ---
 
 ### ✋ **Signify — Arabic Sign Language Recognition (ArSL)**
+[View Project](https://github.com/KarimElroby7/signify)
 - YOLOv8l gesture recognition  
 - Auto-correction module  
 - 3D avatar animation  
@@ -90,13 +92,6 @@ Motivated to build impactful AI-driven systems, learn continuously, and contribu
 - Real-time YOLO detection  
 - Embedded hardware + IoT  
 - Automated sorting & QC  
-
----
-
-### 🌱 **Smart Greenhouse — IoT System**
-- Monitors temperature, humidity & lighting  
-- Automated irrigation  
-- Environment control  
 
 ---
 
