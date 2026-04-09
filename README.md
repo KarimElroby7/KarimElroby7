@@ -121,10 +121,6 @@ Motivated to build impactful AI-driven systems, learn continuously, and contribu
 
 ---
 
-
-
----
-
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
