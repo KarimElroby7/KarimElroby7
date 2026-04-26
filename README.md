@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a Computer & Control Systems Engineer who builds **real-time AI systems** that ship — from sign-language translators that run on phones to defect-detection pipelines that run on embedded hardware. My focus: turning research-grade computer-vision and generative-AI models into production software with measurable business impact.
+I'm a Computer & Control Systems Engineer who builds **real-time AI systems** that ship — from sign-language translators running on web and mobile to multi-camera vision platforms streaming through Kafka pipelines. My focus: turning research-grade computer-vision and generative-AI models into production software with measurable business impact.
 
 - 🔭 Currently building a **real-time construction-equipment tracking platform** (YOLOv11 + BoT-SORT + Kafka + TimescaleDB).
 - 🧠 Deep interest in **multimodal AI**, **vision-language models**, and **edge inference**.
