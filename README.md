@@ -5,6 +5,7 @@
   <a href="mailto:karimelroby20@gmail.com"><img src="https://img.shields.io/badge/Email-karimelroby20%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/karim-elroby/"><img src="https://img.shields.io/badge/LinkedIn-Karim%20Elroby-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/KarimElroby7"><img src="https://img.shields.io/badge/GitHub-KarimElroby7-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.kaggle.com/karimelroby7"><img src="https://img.shields.io/badge/Kaggle-karimelroby7-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <img src="https://img.shields.io/badge/Location-Cairo,%20Egypt-4CAF50?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -105,4 +106,5 @@ I'm open to **AI Engineer / Computer Vision / ML Engineer** roles and collaborat
 - 📧 **Email:** karimelroby20@gmail.com
 - 💼 **LinkedIn:** [Karim Elroby](https://www.linkedin.com/in/karim-elroby/)
 - 🐙 **GitHub:** [@KarimElroby7](https://github.com/KarimElroby7)
+- 📊 **Kaggle:** [@karimelroby7](https://www.kaggle.com/karimelroby7)
 - 📍 **Cairo, Egypt** — open to remote & relocation
