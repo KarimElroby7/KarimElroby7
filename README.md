@@ -95,7 +95,7 @@ Builds a real-time AI fitness coaching system by streaming live webcam frames th
 #### 💊 [Pharmacy Management System](https://github.com/KarimElroby7/pharmacy_system)
 > Production-ready desktop ERP for pharmacies.
 
-`Python` · `PyQt6` · `SQLite` · `Vector DB (planned)`
+`Python` · `PyQt6` · `SQLite` · `Vector DB`
 
 Inventory, employees, products, and image-backed catalog management with a modern PyQt6 UI. Architected for an AI upgrade path — vector-database-powered semantic search and recommendations.
 
