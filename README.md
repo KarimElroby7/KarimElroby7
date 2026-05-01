@@ -13,12 +13,12 @@
 
 ### 🚀 About Me
 
-I'm a Computer & Control Systems Engineer who builds **real-time AI systems** that ship — from sign-language translators running on web and mobile to multi-camera vision platforms streaming through Kafka pipelines. My focus: turning research-grade computer-vision and generative-AI models into production software with measurable business impact.
+I'm an AI Engineer who builds **real-time computer-vision systems that ship** — from sign-language translators running on web and mobile, to multi-camera tracking platforms streaming through Kafka, to live pose-estimation coaches that score human movement on the fly. My focus: turning research-grade CV and generative-AI models into production software with measurable impact.
 
 - 🔭 Currently building a **real-time construction-equipment tracking platform** (YOLOv11 + BoT-SORT + Kafka + TimescaleDB).
-- 🧠 Deep interest in **multimodal AI**, **vision-language models**, and **edge inference**.
+- 🧠 Deep interest in **multimodal AI**, **vision-language models**, **pose estimation**, and **edge inference**.
 - 🎓 B.Sc. Computer & Control Systems Engineering — graduation project graded **Excellent**.
-- 💬 Ask me about: YOLO pipelines, optical-flow analytics, FastAPI services, real-time streaming, or deploying CV models on edge devices.
+- 💬 Ask me about: YOLO pipelines, MediaPipe pose estimation, optical-flow analytics, FastAPI services, real-time streaming, or deploying CV models on edge devices.
 
 ---
 
@@ -36,8 +36,10 @@ I'm a Computer & Control Systems Engineer who builds **real-time AI systems** th
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Ultralytics-111?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 **Backend & Data**
@@ -73,11 +75,20 @@ Streams multi-camera feeds through a Kafka pipeline, runs YOLOv11 detection + Bo
 ---
 
 #### 🤟 [Signify — Bidirectional Arabic Sign Language Translation](https://github.com/KarimElroby7/signify)
-> Real-time ArSL ↔ Arabic translator with 3D avatar synthesis. Graduation project — **graded Excellent**.
+> Real-time ArSL ↔ Arabic translator with 3D-avatar synthesis. Graduation project — **graded Excellent**.
 
 `YOLOv8l` · `Auto-Correction NLP` · `3D Avatars` · `Web` · `Mobile`
 
 Recognizes Arabic Sign Language gestures via fine-tuned YOLOv8l, post-processes outputs through a context-aware auto-correction module to produce coherent Arabic sentences, and renders the reverse direction (text → sign) using animated 3D avatars on web and mobile clients.
+
+---
+
+#### 🏋️ [AI Personal Trainer](https://github.com/KarimElroby7/AI-Personal-Trainer)
+> Real-time fitness coach that tracks form, counts reps, and scores performance from a single webcam.
+
+`MediaPipe Pose` · `OpenCV` · `Streamlit` · `Python` · `NumPy`
+
+A complete computer-vision pipeline that streams live webcam frames through **MediaPipe Pose** (33-landmark detection with exponential smoothing), drives per-exercise rep state machines on joint-angle thresholds, and classifies form errors in-flight (`SHALLOW SQUAT`, `BAD BACK`, `ELBOW MOVING`, `NOT FULL CURL`). Resilient to dropped landmarks — re-uses the last good pose when visibility drops below 0.3 so the skeleton never flickers. Each session emits a 0–100 score (per-rep average minus a capped consistency penalty), JSON telemetry, and a Streamlit analytics dashboard with cross-session comparison. Two runners: live webcam and video-file processor.
 
 ---
 
