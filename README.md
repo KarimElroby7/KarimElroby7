@@ -88,12 +88,12 @@ Recognizes Arabic Sign Language gestures via fine-tuned YOLOv8l, post-processes 
 
 `MediaPipe Pose` · `OpenCV` · `Streamlit` · `Python` · `NumPy`
 
-A complete computer-vision pipeline that streams live webcam frames through **MediaPipe Pose** (33-landmark detection with exponential smoothing), drives per-exercise rep state machines on joint-angle thresholds, and classifies form errors in-flight (`SHALLOW SQUAT`, `BAD BACK`, `ELBOW MOVING`, `NOT FULL CURL`). Resilient to dropped landmarks — re-uses the last good pose when visibility drops below 0.3 so the skeleton never flickers. Each session emits a 0–100 score (per-rep average minus a capped consistency penalty), JSON telemetry, and a Streamlit analytics dashboard with cross-session comparison. Two runners: live webcam and video-file processor.
+Builds a real-time AI fitness coaching system by streaming live webcam frames through MediaPipe Pose for 33-landmark body tracking, driving per-exercise rep state machines on joint-angle thresholds, and classifying form errors in real time across squats, push-ups, and bicep curls. Each session emits a 0–100 performance score, JSON telemetry, and a Streamlit analytics dashboard with cross-session comparison.
 
 ---
 
 #### 💊 [Pharmacy Management System](https://github.com/KarimElroby7/pharmacy_system)
-> Production-ready desktop ERP for small pharmacies.
+> Production-ready desktop ERP for pharmacies.
 
 `Python` · `PyQt6` · `SQLite` · `Vector DB (planned)`
 
