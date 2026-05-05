@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Karim Khaled Elorby 👋</h1>
+<h1 align="center">Hi, I'm Karim Khaled Elroby 👋</h1>
 <h3 align="center">AI Engineer · Computer Vision · Generative AI</h3>
 
 <p align="center">
